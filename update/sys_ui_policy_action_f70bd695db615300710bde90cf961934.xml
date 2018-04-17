@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>u_training_group</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-17 20:29:39</sys_created_on>
+        <sys_id>f70bd695db615300710bde90cf961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_training_group</sys_name>
+        <sys_package display_value="ASIMERed.es" source="x_195212_asimered">cd56add5dbed1300710bde90cf9619de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ASIMERed.es">cd56add5dbed1300710bde90cf9619de</sys_scope>
+        <sys_update_name>sys_ui_policy_action_f70bd695db615300710bde90cf961934</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-17 20:29:39</sys_updated_on>
+        <table>x_195212_asimered_personas</table>
+        <ui_policy display_value="Muestra/oculta campo 'Grupo formativo' en el registro">517a5295db615300710bde90cf96199e</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

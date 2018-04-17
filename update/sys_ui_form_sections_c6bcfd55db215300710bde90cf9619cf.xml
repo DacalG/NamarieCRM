@@ -25,7 +25,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_195212_asimered_personas" name="x_195212_asimered_personas" sys_domain="global" view="Default view">c6bcfd55db215300710bde90cf9619cf</sys_ui_form>
-            <sys_ui_section caption="Información laboral" display_value="Información laboral" name="x_195212_asimered_personas" sys_domain="global" view="Default view">4ebcfd55db215300710bde90cf9619cd</sys_ui_section>
+            <sys_ui_section caption="Preparación" display_value="Preparación" name="x_195212_asimered_personas" sys_domain="global" view="Default view">4ebcfd55db215300710bde90cf9619cd</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-04-17 18:16:29</sys_updated_on>
         </sys_ui_form_section>
@@ -39,7 +39,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_195212_asimered_personas" name="x_195212_asimered_personas" sys_domain="global" view="Default view">c6bcfd55db215300710bde90cf9619cf</sys_ui_form>
-            <sys_ui_section caption="Estadísticas" display_value="Estadísticas" name="x_195212_asimered_personas" sys_domain="global" view="Default view">06bcfd55db215300710bde90cf9619ce</sys_ui_section>
+            <sys_ui_section caption="Estadísticas laborales" display_value="Estadísticas laborales" name="x_195212_asimered_personas" sys_domain="global" view="Default view">06bcfd55db215300710bde90cf9619ce</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-04-17 18:16:29</sys_updated_on>
         </sys_ui_form_section>

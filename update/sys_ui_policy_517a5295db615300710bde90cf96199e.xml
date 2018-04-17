@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_195212_asimered_personas">u_istraining=true^EQ<item endquery="false" field="u_istraining" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>90</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Muestra/oculta campo 'Grupo formativo' en el registro</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-17 20:28:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>517a5295db615300710bde90cf96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Muestra/oculta campo 'Grupo formativo' en el registro</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ASIMERed.es" source="x_195212_asimered">cd56add5dbed1300710bde90cf9619de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ASIMERed.es">cd56add5dbed1300710bde90cf9619de</sys_scope>
+        <sys_update_name>sys_ui_policy_517a5295db615300710bde90cf96199e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-17 20:28:55</sys_updated_on>
+        <table>x_195212_asimered_personas</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

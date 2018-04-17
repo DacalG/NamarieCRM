@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>u_other_formation_group</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-17 19:31:05</sys_created_on>
+        <sys_id>23adce9ddb215300710bde90cf9619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_other_formation_group</sys_name>
+        <sys_package display_value="ASIMERed.es" source="x_195212_asimered">cd56add5dbed1300710bde90cf9619de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ASIMERed.es">cd56add5dbed1300710bde90cf9619de</sys_scope>
+        <sys_update_name>sys_ui_policy_action_23adce9ddb215300710bde90cf9619e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-17 19:31:05</sys_updated_on>
+        <table>x_195212_asimered_personas</table>
+        <ui_policy display_value="Muestra/oculta campo 'Otro grupo' en el registro">6e4cc29ddb215300710bde90cf961967</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
