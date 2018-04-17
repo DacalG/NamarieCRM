@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_training_group" table="x_195212_asimered_personas" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_training_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Big Data</label>
+            <language>en</language>
+            <name>x_195212_asimered_personas</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2bc3195db215300710bde90cf9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:32</sys_updated_on>
+            <value>bd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_training_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SalesForce</label>
+            <language>en</language>
+            <name>x_195212_asimered_personas</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2bc3195db215300710bde90cf9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:32</sys_updated_on>
+            <value>sf</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_training_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Otro</label>
+            <language>en</language>
+            <name>x_195212_asimered_personas</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72bc3195db215300710bde90cf9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:32</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_training_group</element>
+            <name>x_195212_asimered_personas</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:32</sys_created_on>
+            <sys_id>bebc3195db215300710bde90cf9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_training_group</sys_name>
+            <sys_package display_value="ASIMERed.es" source="x_195212_asimered">cd56add5dbed1300710bde90cf9619de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ASIMERed.es">cd56add5dbed1300710bde90cf9619de</sys_scope>
+            <sys_update_name>sys_choice_x_195212_asimered_personas_u_training_group</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:32</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

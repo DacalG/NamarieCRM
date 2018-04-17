@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="c6bcfd55db215300710bde90cf9619cf" sys_domain="global" table="x_195212_asimered_personas" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6bcfd55db215300710bde90cf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195212_asimered_personas" name="x_195212_asimered_personas" sys_domain="global" view="Default view">c6bcfd55db215300710bde90cf9619cf</sys_ui_form>
+            <sys_ui_section caption="Basic Info" display_value="Basic Info" name="x_195212_asimered_personas" sys_domain="global" view="Default view">95aae51ddbed1300710bde90cf961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82bcfd55db215300710bde90cf9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195212_asimered_personas" name="x_195212_asimered_personas" sys_domain="global" view="Default view">c6bcfd55db215300710bde90cf9619cf</sys_ui_form>
+            <sys_ui_section caption="Información laboral" display_value="Información laboral" name="x_195212_asimered_personas" sys_domain="global" view="Default view">4ebcfd55db215300710bde90cf9619cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42bc3195db215300710bde90cf961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195212_asimered_personas" name="x_195212_asimered_personas" sys_domain="global" view="Default view">c6bcfd55db215300710bde90cf9619cf</sys_ui_form>
+            <sys_ui_section caption="Estadísticas" display_value="Estadísticas" name="x_195212_asimered_personas" sys_domain="global" view="Default view">06bcfd55db215300710bde90cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4abc3195db215300710bde90cf96190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195212_asimered_personas" name="x_195212_asimered_personas" sys_domain="global" view="Default view">c6bcfd55db215300710bde90cf9619cf</sys_ui_form>
+            <sys_ui_section caption="Info personal" display_value="Info personal" name="x_195212_asimered_personas" sys_domain="global" view="Default view">cabcfd55db215300710bde90cf9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_195212_asimered_personas</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6bcfd55db215300710bde90cf9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_195212_asimered_personas</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ASIMERed.es" source="x_195212_asimered">cd56add5dbed1300710bde90cf9619de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ASIMERed.es">cd56add5dbed1300710bde90cf9619de</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c6bcfd55db215300710bde90cf9619cf</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:29</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

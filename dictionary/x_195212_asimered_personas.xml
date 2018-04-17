@@ -1,4 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Personas" max_length="40" name="x_195212_asimered_personas" type="collection"/>
+    <element label="Personas" max_length="40" name="x_195212_asimered_personas" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" mandatory="true" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Domicilio" mandatory="true" max_length="40" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Proyectos con Autana" max_length="3000" name="u_autana_proyects" type="string"/>
+        <element label="Fecha de nacimiento" mandatory="true" max_length="40" name="u_birth_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Nombre de la titulación" max_length="40" name="u_degree_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Nivel de estudios" mandatory="true" max_length="40" name="u_education_level" type="string">
+            <choice>
+                <element label="E.S.O." sequence="0" value="eso"/>
+                <element label="Bachillerato" sequence="1" value="bach"/>
+                <element label="FP Grado Medio" sequence="2" value="fpmedia"/>
+                <element label="FP Grado Superior" sequence="3" value="fpsup"/>
+                <element label="Grado" sequence="4" value="grado"/>
+                <element label="Máster" sequence="5" value="master"/>
+                <element label="Ingeniería / Licenciatura" sequence="6" value="ing_lic"/>
+                <element label="Doctorado" sequence="7" value="doctorado"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Correo electrónico" mandatory="true" max_length="40" name="u_email" type="string"/>
+        <element label="Fecha de fin" max_length="40" name="u_end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Motivo finalización" max_length="40" name="u_end_reason" type="string">
+            <choice>
+                <element label="Renuncia" sequence="0" value="resign"/>
+                <element label="Despido" sequence="1" value="dismiss"/>
+                <element label="Jubilación" sequence="2" value="retire"/>
+                <element label="Desaparecido" sequence="3" value="MIA"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="IBAN" max_length="34" name="u_iban" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Empresa destino" max_length="40" name="u_integ_company" type="string"/>
+        <element label="Formación" max_length="40" name="u_isformating" type="boolean"/>
+        <element label="Cursa formación" max_length="40" name="u_istraining" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="LinkedIn" max_length="1024" name="u_linkedin" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Nombre" mandatory="true" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Otro" max_length="40" name="u_other_formation_group" type="string"/>
+        <element choice="1" label="Renovación" max_length="40" name="u_renovate" type="integer">
+            <choice>
+                <element label="Próxima" sequence="0" value="1"/>
+                <element label="Sí" sequence="1" value="2"/>
+                <element label="Reciente" sequence="2" value="3"/>
+                <element label="No prevista" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Competencias" max_length="1000" name="u_skills" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nº Seguridad Social" max_length="40" name="u_ssn" type="string"/>
+        <element label="Fecha de inicio" mandatory="true" max_length="40" name="u_start_date" type="glide_date"/>
+        <element choice="1" label="Estado" mandatory="true" max_length="40" name="u_state" type="integer">
+            <choice>
+                <element label="No trabaja aquí actualmente" sequence="0" value="1"/>
+                <element label="Prácticas" sequence="1" value="2"/>
+                <element label="Contrato temporal" sequence="2" value="3"/>
+                <element label="Indefinido" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Teléfono" mandatory="true" max_length="40" name="u_telf" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Grupo de formación" max_length="40" name="u_training_group" type="string">
+            <choice>
+                <element label="Big Data" sequence="0" value="bd"/>
+                <element label="SalesForce" sequence="1" value="sf"/>
+                <element label="Otro" sequence="2" value="other"/>
+            </choice>
+        </element>
+    </element>
 </database>

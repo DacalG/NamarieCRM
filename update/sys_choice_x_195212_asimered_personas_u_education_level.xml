@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_education_level" table="x_195212_asimered_personas" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_education_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E.S.O.</label>
+            <language>en</language>
+            <name>x_195212_asimered_personas</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eabc3195db215300710bde90cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:31</sys_updated_on>
+            <value>eso</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_education_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bachillerato</label>
+            <language>en</language>
+            <name>x_195212_asimered_personas</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ebc3195db215300710bde90cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:32</sys_updated_on>
+            <value>bach</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_education_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FP Grado Medio</label>
+            <language>en</language>
+            <name>x_195212_asimered_personas</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aabc3195db215300710bde90cf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:32</sys_updated_on>
+            <value>fpmedia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_education_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FP Grado Superior</label>
+            <language>en</language>
+            <name>x_195212_asimered_personas</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2abc3195db215300710bde90cf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:32</sys_updated_on>
+            <value>fpsup</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_education_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grado</label>
+            <language>en</language>
+            <name>x_195212_asimered_personas</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6bc3195db215300710bde90cf9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:32</sys_updated_on>
+            <value>grado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_education_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Máster</label>
+            <language>en</language>
+            <name>x_195212_asimered_personas</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26bc3195db215300710bde90cf9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:32</sys_updated_on>
+            <value>master</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_education_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ingeniería / Licenciatura</label>
+            <language>en</language>
+            <name>x_195212_asimered_personas</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2bc3195db215300710bde90cf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:32</sys_updated_on>
+            <value>ing_lic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_education_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Doctorado</label>
+            <language>en</language>
+            <name>x_195212_asimered_personas</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>22bc3195db215300710bde90cf9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:32</sys_updated_on>
+            <value>doctorado</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_education_level</element>
+            <name>x_195212_asimered_personas</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-17 18:16:31</sys_created_on>
+            <sys_id>e6bc3195db215300710bde90cf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_education_level</sys_name>
+            <sys_package display_value="ASIMERed.es" source="x_195212_asimered">cd56add5dbed1300710bde90cf9619de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ASIMERed.es">cd56add5dbed1300710bde90cf9619de</sys_scope>
+            <sys_update_name>sys_choice_x_195212_asimered_personas_u_education_level</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-17 18:16:31</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
